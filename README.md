@@ -1,4 +1,4 @@
-# 📡 The Lost Signal | ATHAR 2026
+#  The Lost Signal | ATHAR 2026
 
 > **"Ethics is the Compass of Artificial Intelligence."**
 > *An interactive experience developed for the Athar Club Exhibition.*
@@ -9,12 +9,12 @@
 
 ---
 
-## 🌌 About The Project 
+##  About The Project 
 **The Lost Signal** is an immersive browser-based game developed specially for the **Athar Exhibition 2026**. The project gamifies the concept of "finding meaning in noise," challenging players to locate hidden signals within a vast starfield.
 
 The ultimate goal is to decode a hidden message related to **AI Ethics**, emphasizing that technology requires a moral compass.
 
-### 🎯 Mission Objectives:
+###  Mission Objectives:
 * **Locate Signals:** Use the signal strength meter to find hidden nodes in the galaxy.
 * **Decode the Message:** Reveal the hidden phrase word by word.
 * **Beat the Clock:** Complete the mission before the connection is lost.
@@ -22,7 +22,7 @@ The ultimate goal is to decode a hidden message related to **AI Ethics**, emphas
 
 ---
 
-## 📸 Mission Gallery 
+##  Mission Gallery 
 
 ### 1. The Mission Start
 *Players enter their codename and select difficulty (Easy/Hard).*
@@ -38,7 +38,7 @@ The ultimate goal is to decode a hidden message related to **AI Ethics**, emphas
 
 ---
 
-## 🛠️ Technical Highlights 
+##  Technical Highlights 
 Even though the source code is private, here is an overview of the engineering behind the simulation:
 
 * **Core Framework:** Built with **Python** using the **Streamlit** library for rapid web deployment.
@@ -50,7 +50,7 @@ Even though the source code is private, here is an overview of the engineering b
 
 ---
 
-## 🧬 Development Credits
+##  Development Credits
 <p align="left">
   <strong>Developed by:</strong> Eng. Alyaa<br>
   <strong>Event:</strong> Athar Club Exhibition 2026<br>
