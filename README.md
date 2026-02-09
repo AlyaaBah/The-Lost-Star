@@ -26,15 +26,15 @@ The ultimate goal is to decode a hidden message related to **AI Ethics**, emphas
 
 ### 1. The Mission Start
 *Players enter their codename and select difficulty (Easy/Hard).*
-![Start Screen](assets/start_screen.png)
+![Start Screen](start_screen.png)
 
 ### 2. Signal Hunting
 *Using a dynamic signal strength bar to navigate the starfield and lock onto targets.*
-![Gameplay](assets/gameplay.png)
+![Gameplay](gameplay.png)
 
 ### 3. Mission Accomplished
 *Upon success, a personalized certificate is generated dynamically using HTML5 Canvas.*
-![Certificate](assets/certificate.png)
+![Certificate](certificate.png)
 
 ---
 
